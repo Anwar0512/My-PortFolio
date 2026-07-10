@@ -61,7 +61,7 @@ export default function Hero() {
         <p className="font-inter text-[#8892B0] text-lg max-w-2xl mx-auto mb-12 leading-relaxed">
           Building scalable, production-grade web apps with{' '}
           <span className="text-white">React.js</span>,{' '}
-          <span className="text-white">TypeScript</span>, and modern UI frameworks.
+          <span className="text-white">javaScript</span>, and modern UI frameworks.
         </p>
 
         {/* CTA Buttons */}

@@ -45,7 +45,7 @@ export default function About() {
 
             {/* Edit your bio paragraphs here */}
             <p className="text-[#8892B0] leading-relaxed mb-4">
-              I'm a Front-End Developer with a focus on React.js and TypeScript. I spent over a year at{' '}
+              I'm a Front-End Developer with a focus on React.js and JavaScript. I spent over a year at{' '}
               <span className="text-white">MindStack Solutions</span> building production systems used in real
               hospitals — like a real-time Queue Management System that tracks patient flow across departments.
             </p>
